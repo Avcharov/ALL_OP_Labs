@@ -1,0 +1,4 @@
+﻿  Lab5_Cpp.cpp
+C:\Users\Admin\source\repos\Lab5_Cpp\Lab5_Cpp\Lab5_Cpp.cpp(5,10): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\Lab5_Cpp\Lab5_Cpp\Lab5_Cpp.cpp(5,12): warning C4101: b: неиспользованная локальная переменная
+  Lab5_Cpp.vcxproj -> C:\Users\Admin\source\repos\Lab5_Cpp\Debug\Lab5_Cpp.exe
